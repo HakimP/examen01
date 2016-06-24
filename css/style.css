@@ -12,7 +12,7 @@
 }
 
 .styleDivImageRelative {
-	position: relative;	
+	position: absolute;	
 }
 
 .styleTamanioFoto {
@@ -43,6 +43,7 @@
 
 .junbotronColor {
 	background: url(../img/partyBoard.jpg) center center fixed;
+	text-align: center;
 }
 
 .hrFormato {
@@ -50,6 +51,7 @@
 }
 
 .h1Titulo {
+	color: white !important;
 	text-shadow: 2px 2px 1px #222; 
 	margin-top: 80px;
 }
