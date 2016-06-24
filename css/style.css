@@ -1,0 +1,112 @@
+.containerForm {
+	border-right: 40%;
+	border-left: 40%;
+}
+
+.styleSeccion2 {
+	background-color:#7ECAAD;
+}
+
+.styleFooter {
+	margin-top:4em;
+}
+
+.styleDivImageRelative {
+	position: relative;	
+}
+
+.styleTamanioFoto {
+	width: 200px;
+}
+.cuadroSig {
+	margin-top: 3%;
+	margin-left: 85%;
+	position: fixed;
+	z-index: 10;
+	border-radius: 5%;
+}
+
+.imagenesBlock {
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    position:relative;
+    top:0;
+    bottom:0;
+    margin:auto;
+}
+
+.imagenTamanio {
+	width:110px;
+	margin:auto;
+}
+
+.junbotronColor {
+	background: url(../img/partyBoard.jpg) center center fixed;
+}
+
+.hrFormato {
+	border-top:dashed #eee;
+}
+
+.h1Titulo {
+	text-shadow: 2px 2px 1px #222; 
+	margin-top: 80px;
+}
+
+.h2Texto {
+	text-align: center;
+	margin-bottom:40px;
+	font-size:4em; 
+	color:white; 
+	margin-top: 110px;
+}
+
+.h2TextoNegro {
+	text-align: center;
+	margin-bottom:40px;
+	font-size:4em; 
+	color:black; 
+	margin-top: 110px;
+}
+
+.h3Titulo {
+	color:white;
+}
+
+.h3TituloBlue {
+	color:#337ab7;
+}
+
+.h4Texto {
+	color:white;
+	font-size:15px;
+	margin-bottom: 60px;
+	margin-top: 50px;
+	margin-bottom: 120px;
+}
+
+.h4TextoBlue {
+	color:#337ab7;
+}
+
+.brEspaciado {
+	height: 300px;
+}
+
+.imgLogo {
+	width: 80px;
+}
+
+.imagenStatic {
+	height: 100px;
+	width: 100px;
+	border-radius: 0 0 60vw 60vw;
+	margin: auto;
+	position: relative;
+	background-color: black;
+}
+
+.styleFrame {
+	border: 0;
+}
